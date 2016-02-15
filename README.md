@@ -9,6 +9,8 @@
 - [Packages and Middleware](#packages-and-middleware)
 - [Made With Lumen](#made-with-lumen)
 - [Contributing](#contributing)
+- [Books](#books)
+- [Community](#community)
 
 ## Essentials
 * [Lumen Homepage](https://lumen.laravel.com/)
