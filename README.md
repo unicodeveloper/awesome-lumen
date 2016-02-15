@@ -67,6 +67,9 @@
 ## Books
 * [Writing APIs with Lumen](https://leanpub.com/lumen-apis)
 
+## Community
+* [StackOverflow](http://stackoverflow.com/questions/tagged/lumen)
+
 
 ## Contributing
 Found an awesome package, article, blog, video etc.? Send me a pull request! Just follow the guidelines
