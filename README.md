@@ -70,6 +70,9 @@
 ## Community
 * [StackOverflow](http://stackoverflow.com/questions/tagged/lumen)
 
+## Tips
+* Contribute some ;)
+
 
 ## Contributing
 Found an awesome package, article, blog, video etc.? Send me a pull request! Just follow the guidelines
