@@ -34,7 +34,7 @@
 * [Building a web app with Lumen Web Api and Oauth2 Authentication ](http://esbenp.github.io/2015/05/26/lumen-web-api-oauth-2-authentication/)
 * [Build an API with Lumen and Fractal](http://laravelista.com/build-an-api-with-lumen-and-fractal/)
 * [Developing a microservice with Lumen](http://goodheads.io/2015/06/19/developing-a-micro-service-with-lumen/)
-* [Json Web token authentication for Lumen](http://laravelista.com/json-web-token-authentication-for-lumen/)
+* [Json Web token authentication for Lumen](https://laravelista.com/posts/json-web-token-authentication-for-lumen)
 * [How to use Lumen](http://codelution.com/resource/framework/how-to-use-lumen-by-laravel/)
 
 
