@@ -65,6 +65,7 @@
 * [Lumen File Manager](https://github.com/nordsoftware/lumen-file-manager) - File manager module for the Lumen PHP framework.
 * [Lumen 5.2 HTTP Basic Auth Guard](https://github.com/arubacao/http-basic-auth-guard) - Brings back basic authentication for Lumen 5.2.
 * [Larasupport](https://github.com/irazasyed/larasupport) - Adds Laravel Packages Support to Lumen and Other Helpers.
+* [REST API With Lumen](https://github.com/hasib32/rest-api-with-lumen) - A RESTful API boilerplate for Lumen micro-framework.
 
 
 ## Made With Lumen
