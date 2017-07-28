@@ -23,6 +23,8 @@
 * [Documentation](https://lumen.laravel.com/docs/5.2) - Lumen 5
 * [GitHub Repository](https://github.com/laravel/lumen)
 
+## Demos
+ * <https://github.com/liyu001989/lumen-api-demo>
 
 ## Tutorials
 
