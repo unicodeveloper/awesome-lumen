@@ -66,6 +66,7 @@
 * [Lumen 5.2 HTTP Basic Auth Guard](https://github.com/arubacao/http-basic-auth-guard) - Brings back basic authentication for Lumen 5.2.
 * [Larasupport](https://github.com/irazasyed/larasupport) - Adds Laravel Packages Support to Lumen and Other Helpers.
 * [REST API With Lumen](https://github.com/hasib32/rest-api-with-lumen) - A RESTful API boilerplate for Lumen micro-framework.
+* [Lumen Passport](https://github.com/dusterio/lumen-passport) - Making Laravel Passport work with Lumen.
 
 
 ## Made With Lumen
