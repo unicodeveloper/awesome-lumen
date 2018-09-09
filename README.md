@@ -78,6 +78,7 @@
 
 ## Books
 * [Writing APIs with Lumen](https://leanpub.com/lumen-apis)
+* [Lumen Programming Guide: Writing PHP Microservices, REST and Web Service APIs](https://www.amazon.com/Lumen-Programming-Guide-Writing-Microservices/dp/1484221869/ref=sr_1_1?ie=UTF8&qid=1536504679&sr=8-1&keywords=lumen+programming)
 
 ## Community
 * [StackOverflow](http://stackoverflow.com/questions/tagged/lumen)
