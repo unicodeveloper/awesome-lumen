@@ -76,7 +76,7 @@
 * [Email Microservice](https://github.com/rlacerda83/lumen-email-microservice) - Microservice for sending emails with Lumen
 * [Lissandra](https://github.com/laravelista/Lissandra) - API for Laracasts Feed built with Lumen.
 * [Lumen Solder](https://github.com/TechnicPack/LumenSolder) - An implementation of Solder in Laravel's Lumen Framework.
-
+* [Lumen Microservices Skeleton](https://github.com/FabrizioCafolla/microservice-lumen) - Skeleton structure for Microservices with Docker and Lumen
 
 ## Books
 * [Writing APIs with Lumen](https://leanpub.com/lumen-apis)
