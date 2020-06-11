@@ -24,7 +24,7 @@
 * [GitHub Repository](https://github.com/laravel/lumen)
 
 ## Demos
- * <https://github.com/liyu001989/lumen-api-demo>
+ * [Lumen API demo](https://github.com/liyu001989/lumen-api-demo)
 
 ## Tutorials
 
