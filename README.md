@@ -68,6 +68,7 @@
 * [Larasupport](https://github.com/irazasyed/larasupport) - Adds Laravel Packages Support to Lumen and Other Helpers.
 * [REST API With Lumen](https://github.com/hasib32/rest-api-with-lumen) - A RESTful API boilerplate for Lumen micro-framework.
 * [Lumen Passport](https://github.com/dusterio/lumen-passport) - Making Laravel Passport work with Lumen.
+* [Attribute Events](https://github.com/jpkleemans/attribute-events) - Event driven Lumen (micro)services using model events.
 
 
 ## Made With Lumen
